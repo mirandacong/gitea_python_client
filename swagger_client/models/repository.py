@@ -17,7 +17,7 @@ import re  # noqa: F401
 import six
 
 from swagger_client.models.permission import Permission  # noqa: F401,E501
-from swagger_client.models.repository import Repository  # noqa: F401,E501
+# from swagger_client.models.repository import Repository  # noqa: F401,E501
 from swagger_client.models.user import User  # noqa: F401,E501
 
 
